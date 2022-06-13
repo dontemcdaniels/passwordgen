@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../StarterPack/.idea/StarterPack.iml" filepath="$PROJECT_DIR$/../StarterPack/.idea/StarterPack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/passwordgen.iml" filepath="$PROJECT_DIR$/.idea/passwordgen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../reportlab/.idea/reportlab.iml" filepath="$PROJECT_DIR$/../reportlab/.idea/reportlab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../todolist/.idea/todolist.iml" filepath="$PROJECT_DIR$/../todolist/.idea/todolist.iml" />
+    </modules>
+  </component>
+</project>
